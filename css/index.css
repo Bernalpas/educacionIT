@@ -46,8 +46,9 @@ li{
 .hijo{
     margin: 20px;
     border: 2px solid #0000ff;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     text-align: center;
     background: #f0b1d1;
 }
+
