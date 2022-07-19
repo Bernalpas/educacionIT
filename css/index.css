@@ -30,7 +30,24 @@ h2{
     color: #00ffff;
 }
 
+li{
+    display: inline;
+}
 
-@media screen {
-    
+.contenedorpadre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid #9b6012;
+    background: #e8e8ee;
+}
+
+.hijo{
+    margin: 20px;
+    border: 2px solid #0000ff;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    background: #f0b1d1;
 }
